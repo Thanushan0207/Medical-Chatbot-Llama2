@@ -13,4 +13,9 @@ Steps:
 
 
 Images & Videos:
+
 ![Screenshot 2023-08-21 163454](https://github.com/Thanushan0207/Medical-Chatbot-Llama2/assets/131554091/5e1f1c37-774b-4681-b681-d78629c6a16c)
+
+https://github.com/Thanushan0207/Medical-Chatbot-Llama2/assets/131554091/5b35c98e-8527-42e7-a891-eb661a8a2b83
+
+
