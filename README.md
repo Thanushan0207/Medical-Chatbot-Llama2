@@ -1,4 +1,4 @@
-# Medical Chatbot V1
+# Llama Medical Chatbot V1
 This is a local medical AI chatbot created in python using Llama 2, LangChain, Streamlit, and Hugging Face.
 
 ** Make sure the machine you are running this on has atleast 16GB of ram **
